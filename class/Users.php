@@ -1,12 +1,5 @@
 <?php
 class Users{
-
-    /*
-     *
-     *  Data is sanitized before being inserted into the database.
-     *
-     */
-
     /**
      * @var string 
      */
